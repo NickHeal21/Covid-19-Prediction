@@ -1,5 +1,5 @@
 ---
-title: Covid_19_Prediction_2025
+title: Covid 19 Prediction
 app_file: app.py
 sdk: gradio
 sdk_version: 5.31.0
@@ -35,6 +35,7 @@ Gradio
 Hugging Face Spaces
 Jupyter Notebook
 Joblib (for model serialization)
+
 🚀 Run Locally
 git clone https://huggingface.co/spaces/Nikhildev21/Covid_19_Prediction_2025
 cd Covid_19_Prediction_2025
@@ -44,13 +45,13 @@ python app.py
 📂 Project Structure
 Covid_19_Prediction_2025/
 │
-├── App1.ipynb                  # Notebook with preprocessing + training
+├── App1.ipynb                 # Notebook with preprocessing + training
 ├── app.py                     # Gradio interface (main app file)
 ├── covid_19_predictor_2025.joblib  # Trained model
 ├── requirements.txt           # Required packages
 └── README.md                  # Project readme (you're reading it!)
 📹 Demo (Optional)
-Attach your screen recording here or upload to YouTube and embed it for recruiters.
+
 
 📣 About the Author
 👨‍💻 Developed by Nikhil,
